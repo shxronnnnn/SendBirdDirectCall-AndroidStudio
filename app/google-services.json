@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336749810566",
+    "project_id": "sendbirddirectcalls",
+    "storage_bucket": "sendbirddirectcalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336749810566:android:ff8654460f40fdcbce9207",
+        "android_client_info": {
+          "package_name": "com.example.sendbirddirectcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HheZQ-3_pibFV9xTIKioQNyGOoVArLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
