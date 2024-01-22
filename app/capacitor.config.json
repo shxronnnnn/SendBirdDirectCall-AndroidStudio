@@ -1,5 +1,5 @@
 {
-  "appId": "com.ionicframework.SendBird",
+  "appId": "com.example.sendbirddirectcall",
   "appName": "SendBird",
   "webDir": "build"
 }
